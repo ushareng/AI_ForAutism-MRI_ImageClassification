@@ -1,4 +1,5 @@
-This example uses structural and resting state MRI data for Autism Classification .
+Problem Statement :
+Early detection of Autism can lead to early intervention which in turn play a huge role in the brain development of children with ASD . This example uses structural and resting state MRI data for Autism Classification .
 
 Model : TensorFlow and Keras implementation of the paper 
 [CASS: Cross Architectural Self-Supervision for Medical Image Analysis](https://arxiv.org/pdf/2206.04170v6.pdf)
