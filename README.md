@@ -7,6 +7,15 @@ Dataset : ABIDE is a collaboration of 16 international imaging sites that have a
 
 ![ABIDE](https://github.com/ushareng/AI_ForAutism-MRI_ImageClassification/assets/34335028/f9952417-1d18-4c2f-aa9b-bbc757104249)
 
+Source : http://preprocessed-connectomes-project.org/abide/
+
+Hugging spaces Demo : https://huggingface.co/spaces/tensorgirl/mri_classification
+
+Reference Papers :
+
+https://www.ijrte.org/wp-content/uploads/papers/v7i5s3/E11160275S19.pdf
+https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=3303&context=jaas
+
 
 
 
