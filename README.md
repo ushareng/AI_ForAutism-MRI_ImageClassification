@@ -31,9 +31,9 @@ https://humansofdata.atlan.com/2019/08/unravel-the-mystery-of-the-human-brain-at
 
 #### Neurodiversity India Summit 
 
-[2022]([https://arxiv.org/pdf/2206.04170v6.pdf](https://neuroaiworld.com/neurodiversity-india-summit-2022/))
-[2021]([https://arxiv.org/pdf/2206.04170v6.pdf](https://neuroaiworld.com/neurodiversity-india-summit-2021/))
-[2020]([https://arxiv.org/pdf/2206.04170v6.pdf](https://neuroaiworld.com/neurodiversity-india-summit-2020/))
+[2022](https://neuroaiworld.com/neurodiversity-india-summit-2022/)
+[2021](https://neuroaiworld.com/neurodiversity-india-summit-2021/)
+[2020](https://neuroaiworld.com/neurodiversity-india-summit-2020/)
 
 
 
