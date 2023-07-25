@@ -4,7 +4,7 @@ Early detection of Autism can lead to early intervention which in turn play a hu
 
 ### Model :
 
-TensorFlow and Keras implementation of the paper 
+Keras Core and Keras implementation of the paper 
 [CASS: Cross Architectural Self-Supervision for Medical Image Analysis](https://arxiv.org/pdf/2206.04170v6.pdf)
 
 ### Dataset : 
