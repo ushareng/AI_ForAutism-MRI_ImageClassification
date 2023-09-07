@@ -17,6 +17,10 @@ Source : http://preprocessed-connectomes-project.org/abide/
 
 Hugging spaces Demo : https://huggingface.co/spaces/tensorgirl/mri_classification
 
+### Intel Extension of TensorFlow
+
+Include the line pip install --upgrade intel-extension-for-tensorflow[cpu] in the beginning to use the Intel Extension of Tensorflow
+
 ### Reference Papers :
 
 https://www.ijrte.org/wp-content/uploads/papers/v7i5s3/E11160275S19.pdf
